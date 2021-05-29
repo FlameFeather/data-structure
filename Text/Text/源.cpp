@@ -1,6 +1,6 @@
 #include<algorithm>
 int main()
 {
-	printf("xdfssdaf\n");
+	printf("1346\n");
 	return 0;
 }
