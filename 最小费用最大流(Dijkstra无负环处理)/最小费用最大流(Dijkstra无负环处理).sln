@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最小费用最大流(Dijkstra无负环处理)", "最小费用最大流(Dijkstra无负环处理)\最小费用最大流(Dijkstra无负环处理).vcxproj", "{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Debug|x64.ActiveCfg = Debug|x64
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Debug|x64.Build.0 = Debug|x64
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Debug|x86.Build.0 = Debug|Win32
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Release|x64.ActiveCfg = Release|x64
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Release|x64.Build.0 = Release|x64
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Release|x86.ActiveCfg = Release|Win32
+		{2EB0E9DA-1DAE-490A-8A3E-3E68E58361BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3380A89A-4698-474E-BFFE-33338A8F9DD8}
+	EndGlobalSection
+EndGlobal
